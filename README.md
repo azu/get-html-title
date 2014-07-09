@@ -10,6 +10,8 @@ npm install get-html-title
 
 ## Usage
 
+**index.html**
+
 ```html
 <!DOCTYPE html>
 <html>
@@ -27,7 +29,7 @@ Get title content from above html.
 
 ```javascript
 var getTitle = require("get-html-title");
-var content = fs.readFileSync(__dirname + "/fixtures/has-multiple-title.html", "utf-8");
+var content = fs.readFileSync(__dirname + "/index.html", "utf-8");
 getTitle(content)// => "title text"
 ```
 
