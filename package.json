@@ -1,7 +1,7 @@
 {
   "name": "get-html-title",
   "description": "get <title> from html content.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/azu/get-html-title/",
   "repository": {
     "type": "git",
