@@ -1,4 +1,4 @@
-# get-html-title
+# get-html-title [![Build Status](https://travis-ci.org/azu/get-html-title.svg?branch=master)](https://travis-ci.org/azu/get-html-title)
 
 Get `<title>` content from HTML string.
 
