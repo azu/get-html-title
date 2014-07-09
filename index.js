@@ -3,3 +3,4 @@
  * LICENSE : MIT
  */
 "use strict";
+module.exports = require("./lib/get-title-html");
